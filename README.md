@@ -1,4 +1,4 @@
-## Advanced Quantitative Methods and Machine Learning in Finance 
+## Advanced Quantitative Methods and Machine Learning in Finance  
 
 This repository showcases comprehensive machine learning applications in financial analysis, featuring two sophisticated predictive modeling projects that demonstrate practical applications of classification algorithms, ensemble methods, and class imbalance handling techniques in real-world financial scenarios.
 
